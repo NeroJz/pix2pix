@@ -3,7 +3,7 @@
 This project replicates the implementation of image-image translation from Pix2Pix project. The project only
 focuses on implementing Edges to Shoes image translation using PyTorch.
 
-![Edge to Shoes](./img/shoes.jpg)
+![Edge to Shoes](img/shoes.jpg)
 
 The original study and codes can be found on <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">here</a>
 
